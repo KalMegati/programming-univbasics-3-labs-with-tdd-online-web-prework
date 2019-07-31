@@ -1,6 +1,6 @@
 # Add your variables here
-"first_number"
+"first_number" = 6
 
-"second_number"
+"second_number" = 3
 
-"sum" = 
+"sum" = "first_numbe" + "second_number"
